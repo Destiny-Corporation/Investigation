@@ -21,10 +21,8 @@ Em resumo, o repositório "Investigation" é uma ferramenta essencial nas mãos 
 <tr>
 <br>
 <td align="center"><a href="https://github.com/amandavical"><img src="https://avatars.githubusercontent.com/u/95192936?v=4" width="100px;" alt="Amanda Vieira"/><br /><sub><b>Amanda Vieira</b></sub></a><br /></td>
-<td align="center"><a href="https://github.com/amandanpb"><img src="https://avatars.githubusercontent.com/u/93869144?v=4" width="100px;" alt="Amanda Barros"/><br /><sub><b>Amanda Barros</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/liviariegell"><img src="https://avatars.githubusercontent.com/u/111158714?v=4" width="100px;" alt="Livia Riegel"/><br /><sub><b>Livia Riegel</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/caioo1"><img src="https://avatars.githubusercontent.com/u/95643550?v=4" width="100px;" alt="Caio Vieira"/><br /><sub><b>Caio Vieira</b></sub></a><br /></td>
-<td align="center"><a href="https://github.com/vitoriadz"><img src="https://avatars.githubusercontent.com/u/96701270?v=4" width="100px;" alt="Vitória Diniz"/><br /><sub><b>Vitória Diniz</b></sub></a><br /></td>
 </tr>
 </tbody>
 </table>
