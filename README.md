@@ -16,10 +16,10 @@ Em resumo, o repositório "Investigation" é uma ferramenta essencial nas mãos 
 
 ✦ | BackEnd  Destiny's Childs :
 
-Amanda Vieira
-Amanda Vieira
-Livia Riegel
-Livia Riegel
-Caio Vieira
-Caio Vieira
+<td align="center"><a href="https://github.com/amandavical"><img src="https://avatars.githubusercontent.com/u/95192936?v=4" width="100px;" alt="Amanda Vieira"/><br /><sub><b>Amanda Vieira</b></sub></a><br /></td>
+
+<td align="center"><a href="https://github.com/liviariegell"><img src="https://avatars.githubusercontent.com/u/111158714?v=4" width="100px;" alt="Livia Riegel"/><br /><sub><b>Livia Riegel</b></sub></a><br /></td>
+
+<td align="center"><a href="https://github.com/caioo1"><img src="https://avatars.githubusercontent.com/u/95643550?v=4" width="100px;" alt="Caio Vieira"/><br /><sub><b>Caio Vieira</b></sub></a><br /></td>
+
 
