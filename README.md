@@ -14,12 +14,23 @@ Este repositório não se limita a testes de rotina, mas também permite a explo
 
 Em resumo, o repositório "Investigation" é uma ferramenta essencial nas mãos dos responsáveis pelo BackEnd na Destinys Corporation. Ele oferece a oportunidade de explorar, avaliar e otimizar várias facetas do desenvolvimento BackEnd, desde a qualidade das APIs até a escolha dos frameworks e a integração perfeita com o FrontEnd. O "Investigation" não apenas melhora a qualidade dos produtos da empresa, mas também impulsiona a inovação contínua e a excelência técnica.
 
-✦ | BackEnd  Destiny's Childs :
-
+### ✦ | Destiny's Childs:
+<div align="center">
+<table>
+<tbody>
+<tr>
+<br>
+  
 <td align="center"><a href="https://github.com/amandavical"><img src="https://avatars.githubusercontent.com/u/95192936?v=4" width="100px;" alt="Amanda Vieira"/><br /><sub><b>Amanda Vieira</b></sub></a><br /></td>
 
 <td align="center"><a href="https://github.com/liviariegell"><img src="https://avatars.githubusercontent.com/u/111158714?v=4" width="100px;" alt="Livia Riegel"/><br /><sub><b>Livia Riegel</b></sub></a><br /></td>
-
+  
 <td align="center"><a href="https://github.com/caioo1"><img src="https://avatars.githubusercontent.com/u/95643550?v=4" width="100px;" alt="Caio Vieira"/><br /><sub><b>Caio Vieira</b></sub></a><br /></td>
+
+</tr>
+</tbody>
+</table>
+</div>
+
 
 
