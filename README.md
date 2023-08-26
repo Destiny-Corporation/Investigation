@@ -13,3 +13,13 @@ Além disso, o "Investigation" desempenha um papel importante na integração en
 Este repositório não se limita a testes de rotina, mas também permite a exploração de técnicas inovadoras. A equipe de BackEnd da Destinys Corporation tem a oportunidade de experimentar novas abordagens, soluções criativas e paradigmas emergentes. Isso não apenas aprimora o conhecimento técnico dos desenvolvedores, mas também contribui para a evolução constante dos processos de desenvolvimento da empresa.
 
 Em resumo, o repositório "Investigation" é uma ferramenta essencial nas mãos dos responsáveis pelo BackEnd na Destinys Corporation. Ele oferece a oportunidade de explorar, avaliar e otimizar várias facetas do desenvolvimento BackEnd, desde a qualidade das APIs até a escolha dos frameworks e a integração perfeita com o FrontEnd. O "Investigation" não apenas melhora a qualidade dos produtos da empresa, mas também impulsiona a inovação contínua e a excelência técnica.
+
+✦ | BackEnd  Destiny's Childs :
+
+Amanda Vieira
+Amanda Vieira
+Livia Riegel
+Livia Riegel
+Caio Vieira
+Caio Vieira
+
