@@ -2,7 +2,7 @@
 
 No mundo acelerado e altamente competitivo do desenvolvimento de software, empresas como a Destinys Corporation buscam constantemente maneiras de otimizar seus processos e garantir a qualidade de seus produtos. Uma das ferramentas cruciais para atingir esse objetivo é o repositório chamado "Investigation", que desempenha um papel fundamental na avaliação e teste do BackEnd dos projetos.
 
-O "Investigation" é uma iniciativa estratégica que visa aprofundar a exploração dos desafios do BackEnd, permitindo que os desenvolvedores da Destinys Corporation avaliem diversas áreas-chave. Isso inclui, mas não se limita a, testes de APIs, frameworks, a interação com o FrontEnd e a aplicação de JavaScript para unir perfeitamente o BackEnd e o FrontEnd.
+O "Investigation" é um ambiente estratégico que visa aprofundar a exploração dos desafios do BackEnd, permitindo que os desenvolvedores da Destinys Corporation avaliem diversas áreas-chave. Isso inclui, mas não se limita a, testes de APIs, frameworks, a interação com o FrontEnd e a aplicação de JavaScript para unir perfeitamente o BackEnd e o FrontEnd.
 
 Uma das principais funcionalidades do "Investigation" é possibilitar que os desenvolvedores realizem testes detalhados de APIs. Isso envolve verificar a conformidade das APIs com os padrões, sua capacidade de manipular dados de entrada e saída de forma precisa, bem como seu desempenho sob várias condições. Isso não apenas garante a qualidade da comunicação entre os diferentes componentes de um projeto, mas também assegura que os usuários finais tenham uma experiência fluida e sem problemas.
 
