@@ -1,3 +1,9 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=260A5B&height=120&section=header"/>
+
+![bannerd](https://github.com/Destiny-Corporation/Investigation/assets/96701270/22440a10-c48b-4154-b85a-13328d86d6f7)
+
+---
+
 **Investigation: Explorando os Desafios do BackEnd na Destinys Corporation**
 
 No mundo acelerado e altamente competitivo do desenvolvimento de software, empresas como a Destinys Corporation buscam constantemente maneiras de otimizar seus processos e garantir a qualidade de seus produtos. Uma das ferramentas cruciais para atingir esse objetivo é o repositório chamado "Investigation", que desempenha um papel fundamental na avaliação e teste do BackEnd dos projetos.
@@ -14,7 +20,7 @@ Este repositório não se limita a testes de rotina, mas também permite a explo
 
 Em resumo, o repositório "Investigation" é uma ferramenta essencial nas mãos dos responsáveis pelo BackEnd na Destinys Corporation. Ele oferece a oportunidade de explorar, avaliar e otimizar várias facetas do desenvolvimento BackEnd, desde a qualidade das APIs até a escolha dos frameworks e a integração perfeita com o FrontEnd. O "Investigation" não apenas melhora a qualidade dos produtos da empresa, mas também impulsiona a inovação contínua e a excelência técnica.
 
-### ✦ | BackEnd Destiny's Childs:
+### ✦ | Back-End Destiny's Childs:
 <div align="center">
 <table>
 <tbody>
